@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="art.png" alt="" width="275">
+  <img src="art.png" alt="" width="350">
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
