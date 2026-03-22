@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="50" viewBox="0 0 300 50">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="55" viewBox="0 0 400 55">
   <defs>
     <style>
       @font-face {
@@ -8,7 +8,7 @@
       }
     </style>
   </defs>
-  <text x="50%" y="40" text-anchor="middle" font-family="TitilliumWeb" font-weight="900" font-size="42">
+  <text x="50%" y="43" text-anchor="middle" font-family="TitilliumWeb" font-weight="900" font-size="48">
     <tspan fill="#BE2446">.</tspan><tspan fill="#1B1A19">Fielding</tspan><tspan fill="#BE2446">.</tspan>
   </text>
 </svg>
